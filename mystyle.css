@@ -3,6 +3,7 @@ H1{ text-align: center;}
 H2{
     text-align: center;
     background-color: rgb(50,50,50);
+    color : white;
     padding: 6px;
 }
 
@@ -16,6 +17,6 @@ body {
 }
 
 table {
-     width: 100%;
+     width: 100%
 }
 
