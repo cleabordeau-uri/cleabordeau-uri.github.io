@@ -15,4 +15,7 @@ body {
   font-family: monospace;
 }
 
+table {
+     width: 100%;
+}
 
