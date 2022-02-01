@@ -1,6 +1,7 @@
-
+H1{ text-align: center;}
 
 H2{
+    text-align: center;
     background-color: grey;
     padding: 6px;
 }
