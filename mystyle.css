@@ -1,4 +1,6 @@
-H1{ text-align: center;}
+H1{ text-align: center;
+    color:rgb(0,155,255);
+}
 
 H2{
     text-align: center;
@@ -23,17 +25,17 @@ table {
 
 /* lien non visité */
       a:link {
-        color: #ccc;
+        color:rgb(0,155,255);
       }
-      /* lien visité */
+/* lien visité */
       a:visited {
-        color: #095484;
+        color: rgb(0,20,20);
       }
-      /* souris sur le lien */
+/* souris sur le lien */
       a:hover {
-        color: #8ebf42;
+        color: rgb(0,160,160);
       }
-      /* lien sélécté */
+/* lien sélécté */
       a:active {
-        color: #800000;
+        color: rgb(0,170,170);
       }
