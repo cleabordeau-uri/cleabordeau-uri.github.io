@@ -21,3 +21,19 @@ table {
      width: 100%
 }
 
+/* lien non visité */
+      a:link {
+        color: #ccc;
+      }
+      /* lien visité */
+      a:visited {
+        color: #095484;
+      }
+      /* souris sur le lien */
+      a:hover {
+        color: #8ebf42;
+      }
+      /* lien sélécté */
+      a:active {
+        color: #800000;
+      }
