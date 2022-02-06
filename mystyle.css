@@ -31,11 +31,11 @@ body {
       }
 /* lien visité */
       a:visited {
-        color:#1E90FF;
+        color:#0000FF;
       }
 /* souris sur le lien */
       a:hover {
-        color:#0000FF ;
+        color:#1E90FF;
       }
 /* lien sélécté */
       a:active {
