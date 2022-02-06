@@ -35,7 +35,7 @@ body {
       }
 /* souris sur le lien */
       a:hover {
-        color: rgb(0,160,160);
+        color:#0000FF ;
       }
 /* lien sélécté */
       a:active {
